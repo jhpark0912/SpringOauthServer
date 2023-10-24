@@ -6,7 +6,6 @@ import com.springauthorization.demo.dao.UserResult;
 import com.springauthorization.demo.entity.QUserRole;
 import com.springauthorization.demo.entity.Users;
 import com.springauthorization.demo.entity.UserRole;
-import jakarta.annotation.PostConstruct;
 import jakarta.persistence.EntityManager;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
